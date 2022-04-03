@@ -33,6 +33,7 @@ Summary of all my projects already made and published on GitHub and GitLab, divi
 - <a href="https://github.com/LissandraRodrigues/countdown"> Countdown </a>
 - <a href="https://github.com/LissandraRodrigues/twitter-front-end"> Twitter </a>
 - <a href="https://github.com/LissandraRodrigues/sidebar"> Sidebar </a>
+- <a href="https://github.com/LissandraRodrigues/theme-switcher"> Theme Switcher </a>
 - <a href="https://github.com/LissandraRodrigues/flex-blog"> Flex Blog </a>
 - <a href="https://github.com/LissandraRodrigues/google-glass"> Google Glass </a>
 - <a href="https://gitlab.com/luizalissandrarosa/to-do-list"> To do list </a>
