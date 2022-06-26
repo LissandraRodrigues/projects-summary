@@ -29,6 +29,7 @@ Summary of all my projects already made and published on GitHub and GitLab, divi
 
 - <a href="https://github.com/LissandraRodrigues/portfolio"> Portfolio </a>
 - <a href="https://gitlab.com/luizalissandrarosa/zoetrope-landingpage"> Zoetrope Landing Page </a>
+- <a href="https://github.com/LissandraRodrigues/redes-de-computadores-1"> V2G - Redes de Computadores 1 </a>
 - <a href="https://github.com/LissandraRodrigues/social-tree"> Social Tree </a>
 - <a href="https://github.com/LissandraRodrigues/countdown"> Countdown </a>
 - <a href="https://github.com/LissandraRodrigues/twitter-front-end"> Twitter </a>
