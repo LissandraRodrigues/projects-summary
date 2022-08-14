@@ -58,6 +58,7 @@ Summary of all my projects already made and published on GitHub and GitLab, divi
 :computer: Python
 
 - <a href="https://github.com/LissandraRodrigues/youtube_python"> Voice recognition and audio transcription </a>
+- <a href="https://github.com/LissandraRodrigues/information_security" Information Security </a>
 - <a href="https://github.com/LissandraRodrigues/computacao_1"> UFRJ Computing 1 course work with language Python </a>
 
 <br/>
